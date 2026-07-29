@@ -1,4 +1,4 @@
-# Hi there, I'm Charles Christian Pilapil 👋
+# Hi there, I'm Charles 👋
 
 I build scalable, high-performance web applications using modern JavaScript technologies. I enjoy transforming UI/UX designs into responsive, accessible, and maintainable user experiences that deliver reliable, production-quality software.
 
