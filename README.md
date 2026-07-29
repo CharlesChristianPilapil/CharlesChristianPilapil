@@ -1,6 +1,6 @@
 # Hi there, I'm Charles Christian Pilapil 👋
 
-Frontend Software Engineer specializing in building scalable, high-performance web applications with modern JavaScript technologies. I enjoy transforming UI/UX designs into responsive, accessible, and maintainable user experiences while collaborating on production-ready applications.
+I build scalable, high-performance web applications using modern JavaScript technologies. I enjoy transforming UI/UX designs into responsive, accessible, and maintainable user experiences that deliver reliable, production-quality software.
 
 ## 🚀 Portfolio
 
@@ -25,10 +25,10 @@ Frontend Software Engineer specializing in building scalable, high-performance w
 **Philcentro Technologies Inc.**  
 *Jun 2024 – Sep 2025*
 
-- Developed production-grade applications using Next.js, TypeScript, Tailwind CSS, and AWS.
-- Built validated forms with Formik and Yup while integrating REST APIs.
-- Converted UI/UX designs into responsive, accessible interfaces.
-- Improved maintainability through systematic refactoring and code quality improvements.
+- Shipped production-grade features with Next.js, TypeScript, Tailwind CSS, and AWS in an Agile environment.
+- Engineered validated form systems using Formik and Yup, integrating REST APIs via Axios for data reliability.
+- Translated UI/UX designs into responsive, accessible, pixel-perfect interfaces across all screen sizes.
+- Improved application maintainability through systematic refactoring and code quality improvements.
 
 ---
 
@@ -36,9 +36,9 @@ Frontend Software Engineer specializing in building scalable, high-performance w
 *Jun 2023 – Jun 2024*
 
 - Built responsive web applications using React.js, Astro, and modern frontend technologies.
-- Created engaging UI animations with GSAP and Framer Motion.
-- Optimized performance, accessibility, and rendering efficiency.
-- Delivered fast, responsive, and user-friendly web experiences.
+- Animated UI interactions with GSAP and Framer Motion, enhancing interface fluidity and responsiveness.
+- Boosted performance and accessibility scores by optimizing rendering pipelines, assets, and UI structure.
+- Enhanced user experience through responsive, accessible, and high-performance web interfaces.
 
 ---
 
@@ -46,10 +46,10 @@ Frontend Software Engineer specializing in building scalable, high-performance w
 **Transfer It!**  
 *Feb 2023 – Jun 2023*
 
-- Developed internal CMS applications using Vue.js, Laravel, and ASP.NET Core.
-- Built content management and publishing features.
-- Integrated APIs, debugged applications, and optimized performance.
-- Automated repetitive workflows to improve productivity.
+- Developed internal content management applications using Vue.js, Laravel, and ASP.NET Core (C#).
+- Engineered design management and publishing features, ensuring consistent content organization across products.
+- Maintained scalable modules through API integration, debugging, and performance optimization.
+- Improved workflow efficiency by automating repetitive tasks and streamlining content management processes.
 
 ---
 
